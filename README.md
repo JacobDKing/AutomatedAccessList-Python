@@ -2,8 +2,7 @@
 The goal of this project is to demonstrate competence with Python to update a file in a fictional company's database. 
 <br />
 Below is a scenario guide, explaining the scenario behind the task. Afterwards is the step-by-step process taken (with screenshots) to conduct various tasks with Python. 
-<br />
-Note: The referenced lists were pre-made for this project setup to ensure that the they could not be altered previous to execution for ensured success.
+The referenced lists were pre-made for this project scenario to ensure that the they could not be altered previous to execution for ensured success.
 
 <br />
 <br />
