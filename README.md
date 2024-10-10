@@ -1,4 +1,4 @@
-# UpdatePythonFile
+# AutomatedAccessList-Python
 The goal of this project is to demonstrate competence with Python to update a file in a fictional company's database. 
 <br />
 Below is a scenario guide, explaining the scenario behind the task. Afterwards is the step-by-step process taken (with screenshots) to conduct various tasks with Python. 
